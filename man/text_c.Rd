@@ -3,7 +3,7 @@
 \name{text_c}
 \alias{text_c}
 \alias{text_c.default}
-\title{generic for concatenating strings}
+\title{generic for concatonating strings}
 \usage{
 text_c(..., sep = "", coll = NULL)
 
@@ -18,11 +18,10 @@ text_c(..., sep = "", coll = NULL)
 how should the be separated (see also \link[base]{paste})}
 }
 \description{
-generic for concatenating strings
+generic for concatonating strings
 
 text_c default
 }
 \seealso{
 \link[stringb:grapes-..-grapes]{\%..\%} and \link[stringb:grapes-.-grapes]{\%.\%}
 }
-
