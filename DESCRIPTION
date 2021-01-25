@@ -1,8 +1,9 @@
 Package: stringb
 Title: Convenient Base R String Handling
-Date: 2020-02-04
-Version: 0.1.14
-Authors@R: c(
+Date: 2021-01-25
+Version: 0.1.17
+Authors@R: 
+  c(
     person(
       "Peter", "Meissner",
       email = "retep.meissner@gmail.com",
@@ -28,11 +29,11 @@ Imports: graphics, tools, backports
 Suggests: testthat, knitr, rmarkdown, covr
 BugReports: https://github.com/petermeissner/stringb/issues
 URL: https://github.com/petermeissner/stringb
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2020-02-05 20:34:36 UTC; peter.meissner
+Packaged: 2021-01-25 21:36:48 UTC; peter
 Author: Peter Meissner [aut, cre]
 Maintainer: Peter Meissner <retep.meissner@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-02-05 21:00:03 UTC
+Date/Publication: 2021-01-25 22:10:02 UTC
